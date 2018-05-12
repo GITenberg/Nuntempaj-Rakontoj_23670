@@ -1,0 +1,36 @@
+_repo: Nuntempaj-Rakontoj_23670
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Krestanoff, Ivan H.
+    birthdate: 1890
+    deathdate: 1966
+    gutenberg_agent_id: '25977'
+    url: http://www.gutenberg.org/2009/agents/25977
+    wikipedia: http://eo.wikipedia.org/wiki/Ivan_Krestanov
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stamatov, G. P. (Georgi Porfirievich)
+    alias: Стаматов, Георги
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '25978'
+    url: http://www.gutenberg.org/2009/agents/25978
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23670'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PG'
+title: Nuntempaj Rakontoj
+url: http://www.gutenberg.org/ebooks/23670
