@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '25978'
     url: http://www.gutenberg.org/2009/agents/25978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23670#Nuntempaj-Rakontoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-12-01'
 gutenberg_type: Text
